@@ -8,12 +8,16 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
         "name": "Javascript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "Html",
@@ -38,9 +42,9 @@
     "Espanhol (intermediário)"
   ],
   "portfolio": [
-    {
-      "name": "Criando uma Pokedex",
-      "url": "https://github.com/lucasrbsouza/Modulo2-Pokedex.git",
+      {
+      "name": "BetOnMe",
+      "url": "https://github.com/lucasrbsouza/BetOnMe.git",
       "github": true
     },
     {
@@ -57,14 +61,14 @@
       "name": "Blog Fake",
       "url": "https://github.com/lucasrbsouza/Projeto_BlogFake.git",
       "github": true
-    },
-    {
-      "name": "Relogio Virtual",
-      "url": "https://github.com/lucasrbsouza/Relogios.git",
-      "github": true
     }
   ],
   "professionalExperience": [
+     {
+      "name": "SEAD - Secretaria de Administração do Piauí",
+      "period": "2025 - até o momento",
+      "description": "Estagio de Analise de Dados e Desenvolvimento"
+    },
     {
       "name": "Engenharia de Sofwtare",
       "period": "2023 - até o momento",
