@@ -63,12 +63,7 @@
       "github": true
     }
   ],
-  "professionalExperience": [
-     {
-      "name": "SEAD - Secretaria de Administração do Piauí",
-      "period": "2025 - até o momento",
-      "description": "Estagio de Analise de Dados e Desenvolvimento"
-    },
+  "eduExperience": [
     {
       "name": "Engenharia de Sofwtare",
       "period": "2023 - até o momento",
@@ -78,6 +73,13 @@
       "name": "Ensino Médio",
       "period": "2017 - 2019",
       "description": "Escola Pio XII / São Domingos do Maranhão-Ma"
+    }
+  ],
+  "professionalExperience": [
+     {
+      "name": "SEAD - Secretaria de Administração do Piauí",
+      "period": "2025 - até o momento",
+      "description": "Estagio de Analise de Dados e Desenvolvimento"
     }
   ]
 }

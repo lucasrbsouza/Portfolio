@@ -51,6 +51,18 @@ function updatePortfolio(profileData) {
     }).join('')
 }
 
+function updateEducationExperience(profileData) {
+    const eduExperience = document.getElementById('profile.professionalExperience')
+    eduExperience.innerHTML = profileData.eduExperience.map(education =>{
+        return `<li>
+        <h3 class="title">${education.name}</h3>
+         <p class="period">${education.period}</p>
+         <p>${education.description}</p>
+    </li>`
+        
+    }).join('')
+    
+}
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience =>{
