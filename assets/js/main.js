@@ -52,7 +52,7 @@ function updatePortfolio(profileData) {
 }
 
 function updateEducationExperience(profileData) {
-    const eduExperience = document.getElementById('profile.professionalExperience')
+    const eduExperience = document.getElementById('profile.eduExperience')
     eduExperience.innerHTML = profileData.eduExperience.map(education =>{
         return `<li>
         <h3 class="title">${education.name}</h3>
